@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitasProgra20202", "CitasProgra20202\CitasProgra20202.csproj", "{BC421A0A-DBD9-4C42-B051-4028F32F93F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDelNegocio", "LogicaDelNegocio\LogicaDelNegocio.csproj", "{27CC9350-A728-472C-9466-570F9905A516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC421A0A-DBD9-4C42-B051-4028F32F93F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC421A0A-DBD9-4C42-B051-4028F32F93F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC421A0A-DBD9-4C42-B051-4028F32F93F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC421A0A-DBD9-4C42-B051-4028F32F93F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CC9350-A728-472C-9466-570F9905A516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC9350-A728-472C-9466-570F9905A516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC9350-A728-472C-9466-570F9905A516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC9350-A728-472C-9466-570F9905A516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19436153-438E-4B14-92E2-4ACC63CBB30E}
+	EndGlobalSection
+EndGlobal
